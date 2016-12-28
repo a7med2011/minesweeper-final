@@ -1,0 +1,106 @@
+#ifndef EXCEPTIONHANDLERS_H_INCLUDED
+#define EXCEPTIONHANDLERS_H_INCLUDED
+
+
+int exceptionHandledIntInput(int lowerLimit, int upperLimit);
+char exceptionHandledCharInput();
+
+//--------------------------------------------------------------
+
+int exceptionHandledIntInput(int lowerLimit, int upperLimit)
+{
+    int integer = 0;
+    char firstChar;
+    char dummyChar;
+    int integerArray[100];
+    int integerArraySize;
+    int integerSize = 0;
+
+
+    firstChar = getchar();
+
+    if(firstChar == '\n' || firstChar == '\0' || firstChar == ' ' || firstChar == '\t' )
+    {
+        exceptionHandledIntInput(lowerLimit, upperLimit);
+    }
+    else
+    {
+        integerArraySize = 0;
+        if(firstChar>='0'&&firstChar<='9')
+        {
+            integerSize++;
+        }
+        integerArray[integerArraySize] =(char) firstChar;
+        integerArraySize++;
+
+        while((dummyChar = getchar()) != '\n')
+        {
+            integerArray[integerArraySize]=dummyChar;
+            integerArraySize++;
+            if(dummyChar>='0'&&dummyChar<='9')
+            {
+                integerSize++;
+            }
+        }
+        if(integerSize!=integerArraySize)
+        {
+            printf("\nInvalid Input! Re-enter the integer correctly!\n");
+            exceptionHandledIntInput(lowerLimit, upperLimit);
+            return;
+        }
+    }
+    int i;
+
+    for(i=0; i<integerArraySize; i++)
+    {
+        integer+=(integerArray[integerSize-1]-48)*(int)pow(10,i);
+        integerSize--;
+    }
+
+    if(integer>upperLimit)
+    {
+        printf("\nToo Large Number! Please consider the boundaries.\n");
+        exceptionHandledIntInput(lowerLimit, upperLimit);
+        return;
+    }
+    else if(integer<lowerLimit)
+    {
+        printf("\nToo Small Number! Please consider the boundaries.\n");
+        exceptionHandledIntInput(lowerLimit, upperLimit);
+        return;
+    }
+    return integer;
+}
+
+char exceptionHandledCharInput()
+{
+    char character;
+    char dummy[100];
+    char dummyChar;
+    int i = 0;
+
+    while(((dummyChar=getchar())!= '\n'))
+    {
+        dummy[i]=dummyChar;
+        i++;
+    }
+    dummy[i]='\0';
+
+    if (dummy[0] == '\n' || dummy[0] == ' ' || dummy[0]=='\0')
+    {
+        exceptionHandledCharInput();
+    }
+    else if(dummy[1] == '\0')
+    {
+        character = dummy[0];
+        return character;
+    }
+    else
+    {
+        printf("\nInvalid Input! Please Type The Correct Character.\n");
+        exceptionHandledCharInput();
+    }
+
+}
+
+#endif // EXCEPTIONHANDLERS_H_INCLUDED

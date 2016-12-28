@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1482320515 source:f:\csed\programming\minesweeper\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+
+1482536582 source:c:\users\bassam\desktop\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
+1481100268 source:g:\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+
+1482527217 c:\users\bassam\desktop\minesweeper\exceptionhandlers.h
+
+1482528340 c:\users\bassam\desktop\minesweeper\textonlyfunctions.h
+
+1482021939 source:f:\csed\programming\minesweeper\headers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+
+1481901981 f:\csed\programming\minesweeper\headers\exceptionhandlers.h
+
+1481837028 f:\csed\programming\minesweeper\headers\textonlyfunctions.h
+
+1482271344 f:\csed\programming\minesweeper\minesweeper\exceptionhandlers.h
+
+1481837028 f:\csed\programming\minesweeper\minesweeper\textonlyfunctions.h
+
+1482528675 c:\users\bassam\desktop\minesweeper\idlefunctionthread.h
+
+1482535839 c:\users\bassam\desktop\minesweeper\minordebuggersandtools.h
+
+1482534660 source:c:\users\bassam\desktop\minesweeper\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482535838 source:c:\users\bassam\desktop\minesweeper\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482528440 source:c:\users\bassam\desktop\minesweeper\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482535049 source:c:\users\bassam\desktop\minesweeper\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482535715 source:c:\users\bassam\desktop\minesweeper\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 c:\users\bassam\desktop\minesweeper\cellfunctions.h
+
+1482536708 source:c:\users\bassam\desktop\minesweeper\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482536552 c:\users\bassam\desktop\minesweeper\filesfunctions.h
+
+1482535715 source:f:\csed\programming\minesweeper\minesweeper-bassam\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 f:\csed\programming\minesweeper\minesweeper-bassam\cellfunctions.h
+
+1482534660 source:f:\csed\programming\minesweeper\minesweeper-bassam\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482527217 f:\csed\programming\minesweeper\minesweeper-bassam\exceptionhandlers.h
+
+1482615556 source:f:\csed\programming\minesweeper\minesweeper-bassam\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482536552 f:\csed\programming\minesweeper\minesweeper-bassam\filesfunctions.h
+
+1482535049 source:f:\csed\programming\minesweeper\minesweeper-bassam\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482528675 f:\csed\programming\minesweeper\minesweeper-bassam\idlefunctionthread.h
+
+1482537179 source:f:\csed\programming\minesweeper\minesweeper-bassam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
+1482528340 f:\csed\programming\minesweeper\minesweeper-bassam\textonlyfunctions.h
+
+1482535839 f:\csed\programming\minesweeper\minesweeper-bassam\minordebuggersandtools.h
+
+1482535838 source:f:\csed\programming\minesweeper\minesweeper-bassam\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482528440 source:f:\csed\programming\minesweeper\minesweeper-bassam\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482535715 source:f:\csed\programming\minesweeper\minesweeper-final\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 f:\csed\programming\minesweeper\minesweeper-final\cellfunctions.h
+
+1482534660 source:f:\csed\programming\minesweeper\minesweeper-final\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482527217 f:\csed\programming\minesweeper\minesweeper-final\exceptionhandlers.h
+
+1482750542 source:f:\csed\programming\minesweeper\minesweeper-final\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482536552 f:\csed\programming\minesweeper\minesweeper-final\filesfunctions.h
+
+1482535049 source:f:\csed\programming\minesweeper\minesweeper-final\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482528675 f:\csed\programming\minesweeper\minesweeper-final\idlefunctionthread.h
+
+1482537179 source:f:\csed\programming\minesweeper\minesweeper-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
+1482528340 f:\csed\programming\minesweeper\minesweeper-final\textonlyfunctions.h
+
+1482535839 f:\csed\programming\minesweeper\minesweeper-final\minordebuggersandtools.h
+
+1482535838 source:f:\csed\programming\minesweeper\minesweeper-final\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482528440 source:f:\csed\programming\minesweeper\minesweeper-final\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482780186 source:c:\users\bassam\desktop\minesweeper-final\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 c:\users\bassam\desktop\minesweeper-final\cellfunctions.h
+
+1482782427 source:c:\users\bassam\desktop\minesweeper-final\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482527217 c:\users\bassam\desktop\minesweeper-final\exceptionhandlers.h
+
+1482750542 source:c:\users\bassam\desktop\minesweeper-final\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482536552 c:\users\bassam\desktop\minesweeper-final\filesfunctions.h
+
+1482535049 source:c:\users\bassam\desktop\minesweeper-final\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482528675 c:\users\bassam\desktop\minesweeper-final\idlefunctionthread.h
+
+1482779925 source:c:\users\bassam\desktop\minesweeper-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
+1482528340 c:\users\bassam\desktop\minesweeper-final\textonlyfunctions.h
+
+1482535839 c:\users\bassam\desktop\minesweeper-final\minordebuggersandtools.h
+
+1482535838 source:c:\users\bassam\desktop\minesweeper-final\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482528440 source:c:\users\bassam\desktop\minesweeper-final\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482780186 source:f:\csed\programming\minesweeper-final\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 f:\csed\programming\minesweeper-final\cellfunctions.h
+
+1482782427 source:f:\csed\programming\minesweeper-final\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482527217 f:\csed\programming\minesweeper-final\exceptionhandlers.h
+
+1482750542 source:f:\csed\programming\minesweeper-final\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482536552 f:\csed\programming\minesweeper-final\filesfunctions.h
+
+1482535049 source:f:\csed\programming\minesweeper-final\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482528675 f:\csed\programming\minesweeper-final\idlefunctionthread.h
+
+1482779925 source:f:\csed\programming\minesweeper-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
+1482528340 f:\csed\programming\minesweeper-final\textonlyfunctions.h
+
+1482535839 f:\csed\programming\minesweeper-final\minordebuggersandtools.h
+
+1482535838 source:f:\csed\programming\minesweeper-final\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482528440 source:f:\csed\programming\minesweeper-final\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482780186 source:f:\csed\programming\minesweeper-final\minesweeper-final\cellfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"CellFunctions.h"
+
+1482535620 f:\csed\programming\minesweeper-final\minesweeper-final\cellfunctions.h
+
+1482782427 source:f:\csed\programming\minesweeper-final\minesweeper-final\exceptionhandlers.c
+	<stdio.h>
+	<stdlib.h>
+	"ExceptionHandlers.h"
+
+1482527217 f:\csed\programming\minesweeper-final\minesweeper-final\exceptionhandlers.h
+
+1482535049 source:f:\csed\programming\minesweeper-final\minesweeper-final\idlefunctionthread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"IdleFunctionThread.h"
+
+1482528675 f:\csed\programming\minesweeper-final\minesweeper-final\idlefunctionthread.h
+
+1482535838 source:f:\csed\programming\minesweeper-final\minesweeper-final\minordebuggersandtools.c
+	<stdio.h>
+	<stdlib.h>
+	"MinorDebuggersAndTools.h"
+
+1482535839 f:\csed\programming\minesweeper-final\minesweeper-final\minordebuggersandtools.h
+
+1482528440 source:f:\csed\programming\minesweeper-final\minesweeper-final\textonlyfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"TextOnlyFunctions.h"
+
+1482528340 f:\csed\programming\minesweeper-final\minesweeper-final\textonlyfunctions.h
+
+1482956587 source:f:\csed\programming\minesweeper-final\minesweeper-final\filesfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"FilesFunctions.h"
+
+1482835671 f:\csed\programming\minesweeper-final\minesweeper-final\filesfunctions.h
+
+1482843070 source:f:\csed\programming\minesweeper-final\minesweeper-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<pthread.h>
+	"ExceptionHandlers.h"
+	"TextOnlyFunctions.h"
+	"IdleFunctionThread.h"
+	"MinorDebuggersAndTools.h"
+	"CellFunctions.h"
+
